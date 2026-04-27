@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="white"/>
+  <text x="450" y="40" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Dataset Scale Across Main Filtering Steps</text>
+  <line x1="110" y1="440" x2="820" y2="440" stroke="black"/>
+  <line x1="110" y1="80" x2="110" y2="440" stroke="black"/>
+  <rect x="140" y="100" width="90" height="340" fill="#4e79a7"/>
+  <rect x="270" y="265" width="90" height="175" fill="#4e79a7"/>
+  <rect x="400" y="295" width="90" height="145" fill="#4e79a7"/>
+  <rect x="530" y="350" width="90" height="90" fill="#4e79a7"/>
+  <rect x="660" y="410" width="90" height="30" fill="#4e79a7"/>
+  <text x="185" y="465" text-anchor="middle" font-family="Arial" font-size="12">title.basics</text>
+  <text x="315" y="465" text-anchor="middle" font-family="Arial" font-size="12">title.ratings</text>
+  <text x="445" y="465" text-anchor="middle" font-family="Arial" font-size="12">joined</text>
+  <text x="575" y="465" text-anchor="middle" font-family="Arial" font-size="12">feature films</text>
+  <text x="705" y="465" text-anchor="middle" font-family="Arial" font-size="12">high-vote</text>
+  <text x="185" y="92" text-anchor="middle" font-family="Arial" font-size="13">raw title records</text>
+  <text x="315" y="257" text-anchor="middle" font-family="Arial" font-size="13">ratings records</text>
+  <text x="445" y="287" text-anchor="middle" font-family="Arial" font-size="13">IMDb join</text>
+  <text x="575" y="342" text-anchor="middle" font-family="Arial" font-size="13">filtered baseline</text>
+  <text x="705" y="402" text-anchor="middle" font-family="Arial" font-size="13">robustness subset</text>
+  <text x="450" y="505" text-anchor="middle" font-family="Arial" font-size="14">Stage of dataset construction</text>
+  <text x="35" y="260" transform="rotate(-90 35,260)" text-anchor="middle" font-family="Arial" font-size="14">Number of titles / records</text>
+</svg>
