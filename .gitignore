@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+data/title.basics.tsv.gz
+data/title.ratings.tsv.gz
+data/title.principals.tsv.gz
+data/name.basics.tsv.gz
+.DS_Store
