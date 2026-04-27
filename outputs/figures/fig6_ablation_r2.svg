@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="500" viewBox="0 0 760 500">
+  <rect width="760" height="500" fill="white"/>
+  <text x="380" y="40" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Baseline vs. Baseline + Star Power</text>
+  <text x="380" y="68" text-anchor="middle" font-family="Arial" font-size="14">Ablation comparison produced from model_comparison.csv</text>
+  <line x1="120" y1="420" x2="650" y2="420" stroke="black"/>
+  <line x1="120" y1="90" x2="120" y2="420" stroke="black"/>
+  <rect x="210" y="195" width="120" height="225" fill="#9c755f"/>
+  <rect x="450" y="160" width="120" height="260" fill="#9c755f"/>
+  <text x="270" y="188" text-anchor="middle" font-family="Arial" font-size="14">baseline</text>
+  <text x="510" y="153" text-anchor="middle" font-family="Arial" font-size="14">baseline + stars</text>
+  <text x="270" y="450" text-anchor="middle" font-family="Arial" font-size="13">Baseline model</text>
+  <text x="510" y="450" text-anchor="middle" font-family="Arial" font-size="13">With star power</text>
+  <text x="45" y="255" transform="rotate(-90 45,255)" text-anchor="middle" font-family="Arial" font-size="14">Test R-squared</text>
+  <text x="360" y="125" font-family="Arial" font-size="14">Star-power features are interpreted as</text>
+  <text x="360" y="148" font-family="Arial" font-size="14">incremental predictive signal, not causality.</text>
+</svg>
