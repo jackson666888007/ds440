@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="500" viewBox="0 0 850 500">
+  <rect width="850" height="500" fill="white"/>
+  <text x="425" y="40" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Key Coefficients in Log-Revenue Baseline</text>
+  <text x="425" y="68" text-anchor="middle" font-family="Arial" font-size="14">Produced by plot_key_coefficients(coef)</text>
+  <line x1="120" y1="420" x2="760" y2="420" stroke="black"/>
+  <line x1="120" y1="90" x2="120" y2="420" stroke="black"/>
+  <rect x="175" y="120" width="90" height="300" fill="#4e79a7"/>
+  <rect x="315" y="330" width="90" height="90" fill="#4e79a7"/>
+  <rect x="455" y="405" width="90" height="15" fill="#4e79a7"/>
+  <rect x="595" y="415" width="90" height="5" fill="#4e79a7"/>
+  <text x="220" y="112" text-anchor="middle" font-family="Arial" font-size="13">strongest</text>
+  <text x="360" y="322" text-anchor="middle" font-family="Arial" font-size="13">smaller</text>
+  <text x="500" y="397" text-anchor="middle" font-family="Arial" font-size="13">weak</text>
+  <text x="640" y="407" text-anchor="middle" font-family="Arial" font-size="13">weak</text>
+  <text x="220" y="455" text-anchor="middle" font-family="Arial" font-size="13">logVotes</text>
+  <text x="360" y="455" text-anchor="middle" font-family="Arial" font-size="13">rating</text>
+  <text x="500" y="455" text-anchor="middle" font-family="Arial" font-size="13">runtime</text>
+  <text x="640" y="455" text-anchor="middle" font-family="Arial" font-size="13">decade</text>
+  <text x="50" y="255" transform="rotate(-90 50,255)" text-anchor="middle" font-family="Arial" font-size="14">Relative coefficient size</text>
+  <text x="425" y="485" text-anchor="middle" font-family="Arial" font-size="12">Exact values are generated in outputs/tables/baseline_revenue_model_coefficients.csv</text>
+</svg>
