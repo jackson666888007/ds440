@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="500" viewBox="0 0 760 500">
+  <rect width="760" height="500" fill="white"/>
+  <text x="380" y="40" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Vote Attention Is Concentrated</text>
+  <line x1="120" y1="420" x2="650" y2="420" stroke="black"/>
+  <line x1="120" y1="80" x2="120" y2="420" stroke="black"/>
+  <rect x="210" y="105" width="120" height="315" fill="#f28e2b"/>
+  <rect x="450" y="370" width="120" height="50" fill="#f28e2b"/>
+  <text x="270" y="97" text-anchor="middle" font-family="Arial" font-size="16">Most votes</text>
+  <text x="510" y="362" text-anchor="middle" font-family="Arial" font-size="16">Remaining votes</text>
+  <text x="270" y="450" text-anchor="middle" font-family="Arial" font-size="14">Top 10% titles</text>
+  <text x="510" y="450" text-anchor="middle" font-family="Arial" font-size="14">Bottom 90% titles</text>
+  <text x="45" y="250" transform="rotate(-90 45,250)" text-anchor="middle" font-family="Arial" font-size="14">Share of total votes</text>
+  <text x="140" y="420" font-family="Arial" font-size="11">0</text>
+  <text x="136" y="250" font-family="Arial" font-size="11">0.5</text>
+  <text x="136" y="85" font-family="Arial" font-size="11">1.0</text>
+</svg>
