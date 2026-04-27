@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="white"/>
+  <text x="450" y="40" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold">Vote Counts Are Strongly Right-Skewed</text>
+  <line x1="100" y1="440" x2="820" y2="440" stroke="black"/>
+  <line x1="100" y1="80" x2="100" y2="440" stroke="black"/>
+  <rect x="125" y="100" width="55" height="340" fill="#59a14f"/>
+  <rect x="190" y="145" width="55" height="295" fill="#59a14f"/>
+  <rect x="255" y="205" width="55" height="235" fill="#59a14f"/>
+  <rect x="320" y="285" width="55" height="155" fill="#59a14f"/>
+  <rect x="385" y="340" width="55" height="100" fill="#59a14f"/>
+  <rect x="450" y="380" width="55" height="60" fill="#59a14f"/>
+  <rect x="515" y="405" width="55" height="35" fill="#59a14f"/>
+  <rect x="580" y="422" width="55" height="18" fill="#59a14f"/>
+  <rect x="645" y="432" width="55" height="8" fill="#59a14f"/>
+  <rect x="710" y="436" width="55" height="4" fill="#59a14f"/>
+  <text x="450" y="485" text-anchor="middle" font-family="Arial" font-size="14">log10(number of IMDb votes)</text>
+  <text x="35" y="260" transform="rotate(-90 35,260)" text-anchor="middle" font-family="Arial" font-size="14">Number of movies</text>
+  <text x="150" y="465" text-anchor="middle" font-family="Arial" font-size="12">low votes</text>
+  <text x="735" y="465" text-anchor="middle" font-family="Arial" font-size="12">high votes</text>
+  <text x="620" y="115" font-family="Arial" font-size="14">Most movies receive few votes;</text>
+  <text x="620" y="138" font-family="Arial" font-size="14">a small number receive very high attention.</text>
+</svg>
